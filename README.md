@@ -97,6 +97,7 @@ Or you can press control + c twice.
 1. [REPL official docs](https://nodejs.org/api/repl.html)
 2. [Node.js Getting Started - Using the REPL and Running Files](https://www.youtube.com/watch?v=85_wGYPmsno)
 3. [Using the Chrome DevTools Console](https://developer.chrome.com/devtools/docs/console)
+4. [How do I use node's REPL?](https://docs.nodejitsu.com/articles/REPL/how-to-use-nodejs-repl)
 
 ---
 
