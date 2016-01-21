@@ -13,17 +13,17 @@ Node REPL is the easiest way to get started with Node. You'll see that executing
 
 ## REPL
 
-What is you want to run some small code like a one-liner function or test out something, for see how a string function changes a substring? Or maybe you're working with dates and want to convert from one format to another. Saving code to a file each time you experiment, and running that file can be slow. There's a better way... meat REPL!
+What do you do when you want to run some small code like a one-liner function or test out something, or see how a string function changes a substring? Or maybe you're working with dates and want to convert from one format to another. Saving code to a file each time you experiment, and running that file can be slow. There's a better way... meet REPL!
 
 REPL stands for read-evaluate-print loop and it is exactly what it's doing. It take your command, executes it and prints the result if any. It looks similar to a command prompt or a terminal, but with an angle bracket `>` instead of the dollar `$` or some other command prompt sign.
 
 The commands in REPL are Node code. They are written in JavaScript or to be specific in one of the implementations of the ECMAScript standard, because browser JavaScript is just an implementation of this standard.
 
-Another way to think about REPL is as an environment in which we can run Node code. Many other languages and platforms also have a similar REPL environment. Browser JavaScript can be run in the console of Google Chrome DevTools.
+Another way to think about REPL is as an environment in which we can run Node code. Many other languages and platforms also have a similar REPL environment. Browser JavaScript can be run in the console of Google Chrome DevTools. You should be familiar with a REPL from using the Ruby-REPL `irb`.
 
 ## Launching REPL
 
-To launch Node REPL you need to have these things ready:
+To launch the Node REPL you need to have these things ready:
 
 1. Node.js installed
 2. Terminal app a.k.a. command prompt on Windows
