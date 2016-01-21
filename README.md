@@ -7,9 +7,9 @@ Node REPL is the easiest way to get started with Node. You'll see that executing
 ## Objectives
 
 1. Define REPL
-1. Show how to launch REPL
-1. Demo how to run Node in REPL
-1. Show how to exit REPL
+2. Show how to launch REPL
+3. Demo how to run Node in REPL
+4. Show how to exit REPL
 
 ## REPL
 
