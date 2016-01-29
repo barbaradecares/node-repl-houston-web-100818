@@ -100,4 +100,4 @@ Or you can press control + c twice.
 
 ---
 
-<a href='https://learn.co/lessons/node-repl' data-visibility='hidden'>View this lesson on Learn.co</a>
+View <a href='https://learn.co/lessons/node-repl' data-visibility='hidden'>Node REPL</a> on Learn.co and start learning to code for free.
