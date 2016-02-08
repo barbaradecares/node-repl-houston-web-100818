@@ -37,7 +37,7 @@ $ node
 
 And hit enter. If you have Node installed properly, you'll see a pointy brace `>`.
 
-**Note:** I've seen a few beginners to Node trying to execute shell command in the REPL. For example, creating a folder which is `$ mkdir NAME`. Normal shell commands would not and should not work in REPL, because REPL is a Node environment and it uses Node language, not shell. The giveaway sign of REPL is that you have the angle bracket `>`. Remember that when you run into `SyntaxError: Unexpected identifier` errors. All you need to do is open a new terminal window or exit REPL.
+**Note:** We've seen a few beginners to Node trying to execute shell command in the REPL. For example, creating a folder which is `$ mkdir NAME`. Normal shell commands would not and should not work in REPL, because REPL is a Node environment and it uses Node language, not shell. The giveaway sign of REPL is that you have the angle bracket `>`. Remember that when you run into `SyntaxError: Unexpected identifier` errors. All you need to do is open a new terminal window or exit REPL.
 
 ## Running Node in REPL
 
@@ -52,7 +52,7 @@ We can run pretty much any code in REPL. Let's do some math:
 1
 ```
 
-Now let's define an expression (function which returns a value) which take two parameters and returns the sum of them.
+Now let's define an expression (function which returns a value) which take two parameters and returns the sum of them:
 
 ```
 > var sum = function(a, b) { return a+b}
