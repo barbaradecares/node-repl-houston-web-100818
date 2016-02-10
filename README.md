@@ -15,7 +15,7 @@ Node REPL is the easiest way to get started with Node. You'll see that executing
 
 What do you do when you want to run some small code like a one-liner function or test out something, or see how a string function changes a substring? Or maybe you're working with dates and want to convert from one format to another. Saving code to a file each time you experiment, and running that file can be slow. There's a better way... meet REPL!
 
-REPL stands for read-evaluate-print loop and it is exactly what it's doing. It take your command, executes it and prints the result if any. It looks similar to a command prompt or a terminal, but with an angle bracket `>` instead of the dollar `$` or some other command prompt sign.
+REPL stands for read-evaluate-print loop and does exactly what you would expect. It take your command, executes it and prints the result if any. It looks similar to a command prompt or a terminal, but with an angle bracket `>` instead of the dollar `$` or some other command prompt sign.
 
 The commands in REPL are Node code. They are written in JavaScript or to be specific in one of the implementations of the ECMAScript standard, because browser JavaScript is just an implementation of this standard.
 
@@ -32,12 +32,12 @@ To launch the Node REPL you need to have these things ready:
 Open your terminal app. Most likely, you will see a dollar sign on Mac and Unix/Linux. This means you're in bash (Born Again Shell) or a similar shell environment. Now type `node`:
 
 ```
-$ node
+node
 ```
 
 And hit enter. If you have Node installed properly, you'll see a pointy brace `>`.
 
-**Note:** We've seen a few beginners to Node trying to execute shell command in the REPL. For example, creating a folder which is `$ mkdir NAME`. Normal shell commands would not and should not work in REPL, because REPL is a Node environment and it uses Node language, not shell. The giveaway sign of REPL is that you have the angle bracket `>`. Remember that when you run into `SyntaxError: Unexpected identifier` errors. All you need to do is open a new terminal window or exit REPL.
+**Note:** We've seen a few beginners to Node trying to execute shell command in the REPL. For example, creating a folder which is `mkdir NAME`. Normal shell commands would not and should not work in REPL, because REPL is a Node environment and it uses Node language, not shell. The giveaway sign of REPL is that you have the angle bracket `>`. Remember that when you run into `SyntaxError: Unexpected identifier` errors. All you need to do is open a new terminal window or exit REPL.
 
 ## Running Node in REPL
 
