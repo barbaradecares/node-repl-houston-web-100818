@@ -1,14 +1,14 @@
 # Node REPL
 
 ## Overview
-Node REPL is the easiest way to get started with Node. You'll see that executing Node is straightforward and not intimidating at all. ;)
+Node REPL is the easiest way to get started with Node. You'll soon see that executing Node is straightforward and not intimidating at all. ;)
 
 ## Objectives
 
-1. Define REPL
-2. Show how to launch REPL
-3. Demo how to run Node in REPL
-4. Show how to exit REPL
+1. Define the REPL
+2. Launch the REPL
+3. Run Node in the REPL
+4. Exit the REPL
 
 ## REPL
 
