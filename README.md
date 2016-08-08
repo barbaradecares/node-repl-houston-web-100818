@@ -14,7 +14,7 @@ Node REPL is the easiest way to get started with Node. You'll soon see that exec
 
 What do you do when you want to run some small code like a one-liner function or test out something, or see how a string function changes a substring? Or maybe you're working with dates and want to convert from one format to another. Saving code to a file each time you experiment, and running that file can be slow. There's a better way... meet REPL!
 
-REPL stands for read-evaluate-print loop and does exactly what you would expect. It take your command, executes it and prints the result if any. It looks similar to a command prompt or a terminal, but with an angle bracket `>` instead of the dollar `$` or some other command prompt sign.
+REPL stands for read-evaluate-print loop and does exactly what you would expect. It takes your command, executes it and prints the result if any. It looks similar to a command prompt or a terminal, but with an angle bracket `>` instead of the dollar `$` or some other command prompt sign.
 
 The commands in REPL are Node code. They are written in JavaScript or to be specific in one of the implementations of the ECMAScript standard, because browser JavaScript is just an implementation of this standard.
 
@@ -101,3 +101,5 @@ Or you can press control + c twice.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/node-repl' title='Node REPL'>Node REPL</a> on Learn.co and start learning to code for free.</p>
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/node-repl'>Node REPL</a> on Learn.co and start learning to code for free.</p>
